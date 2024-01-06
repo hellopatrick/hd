@@ -1,3 +1,5 @@
+-- note: doesn't work on speed run :(
+
 with (
     replaceRegexpAll(products.desc, '\(.+\)', '') as desc_without_color
 )
