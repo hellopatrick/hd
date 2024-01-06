@@ -1,3 +1,3 @@
-# Hannukah of Data
+# Hanukkah of Data
 
 Using Clickhouse.
